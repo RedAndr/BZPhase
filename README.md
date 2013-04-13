@@ -2,6 +2,7 @@ BZPhase
 =======
 
 Program for Modeling and Building of 4D Phase Portraits of Belousov-Zhaboibsky reaction
+---
 
 The program BZPhase is intended for modeling of famous Belousov-Zhabotinsky
 reaction and 4D phase portraits construction, in accordance with the model
